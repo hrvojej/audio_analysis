@@ -1,2 +1,2 @@
-# audio_analysis
-Exploring audio analysis options
+# Audio Analysis with Python
+Exploring audio analysis options with Python and Jupyter Notebooks
